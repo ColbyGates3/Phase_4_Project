@@ -13,7 +13,7 @@ Presentation: [Link](https://docs.google.com/presentation/d/1MNKhGSry9dcw3o19hOz
 Images dataset: [Link](https://data.mendeley.com/datasets/tywbtsjrjv/1)
 
 # Repository Navigation
-Our Github Repository contains 1 folder named Notebooks. The Notebooks folder has 2  notebooks in it. The first of these notebooks is titled Data_Preproccessing and contains all of my data cleaning and preprocessing steps. It is important to run this notebook first as cleaned data files are created which the Modeling notebook then calls. The next notebook is titled Modeling_Analysis and contains all of the models we created as well as evaluation for each model as well.
+Our Github Repository contains 1  main folder named Notebooks. The other images folder just contains images for this document. The Notebooks folder has 2  notebooks in it. The first of these notebooks is titled Data_Preproccessing and contains all of my data cleaning and preprocessing steps. It is important to run this notebook first as cleaned data files are created which the Modeling notebook then calls. The next notebook is titled Modeling_Analysis and contains all of the models we created as well as evaluation for each model as well.
 
 ## Data Analysis & Recommendations
 * Able to get ~97% test accuracy using a 4 block Convolutional Neural Network
